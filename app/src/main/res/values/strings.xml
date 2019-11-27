@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Questionarios</string>
+    <string name="hint_username">nome do usuario</string>
+    <string name="hint_password">senha</string>
+    <string name="button_login">Entrar</string>
+    <string name="login_invalid">\"Nome de Usuario ou Senha invalidos\"</string>
+</resources>
