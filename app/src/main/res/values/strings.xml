@@ -4,4 +4,7 @@
     <string name="hint_password">senha</string>
     <string name="button_login">Entrar</string>
     <string name="login_invalid">\"Nome de Usuario ou Senha invalidos\"</string>
+    <string name="upload_ok">\"Questao cadastrada com sucesso!\"</string>
+    <string name="hint_question">Digite aqui uma questao</string>
+    <string name="button_register">Cadastrar</string>
 </resources>
