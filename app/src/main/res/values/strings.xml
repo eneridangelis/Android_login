@@ -7,4 +7,9 @@
     <string name="upload_ok">\"Questao cadastrada com sucesso!\"</string>
     <string name="hint_question">Digite aqui uma questao</string>
     <string name="button_register">Cadastrar</string>
+    <string name="question_1">Questao 1:</string>
+    <string name="text_question1">Java possui passagem por referencia?</string>
+    <string name="hint_answer">Escreva aqui sua resposta.</string>
+    <string name="send">Enviar</string>
+    <string name="answer_send">Resposta enviada!</string>
 </resources>
