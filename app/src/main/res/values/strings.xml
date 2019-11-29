@@ -12,4 +12,5 @@
     <string name="hint_answer">Escreva aqui sua resposta.</string>
     <string name="send">Enviar</string>
     <string name="answer_send">Resposta enviada!</string>
+    <string name="back">Voltar</string>
 </resources>
